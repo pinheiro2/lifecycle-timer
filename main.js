@@ -1,0 +1,1 @@
+console.log('[lifecycle-timer] MAIN-STEP: Background monitor is actively collecting data.');
